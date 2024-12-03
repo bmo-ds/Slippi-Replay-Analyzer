@@ -64,9 +64,11 @@ Breaks down losses by character and day:
 
 ### Character and Rank Heatmap
 Visualizes the rank distribution across all characters, highlighting patterns in character performance by rank:
-![Losses By Character & Day](output/Moky100WinsExample/rank_distribution_heatmap.png)
+![Character Frequency by Rank](output/Moky100WinsExample/rank_distribution_heatmap.png)
 
-
+### Opponent L Cancel Success Heatmap
+Highlights opponent L-cancel success rates by rank and character, revealing trends in execution skill across ranks:
+![L Cancel Rate by Character and Rank](output/Moky100WinsExample/rank_character_lcancel_heatmap.png)
 ---
 
 ## Setup
