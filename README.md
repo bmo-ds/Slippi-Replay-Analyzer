@@ -12,7 +12,7 @@ A Python tool for analyzing Super Smash Bros. Melee game data. This tool generat
 
 - **Chart and Graph Visualizations**:
   - Generates bar charts and plots for detailed analysis.
-  - Creates network visualizations for advanced relationship analysis.
+  - Creates network tables for advanced relationship analysis.
 
 - **Customizable**:
   - Easy to adapt to different datasets or metrics.
