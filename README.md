@@ -30,6 +30,31 @@ The following network graph showcases the relationship between player damage rat
 
 ## General Stats
 
+``` 
+    -------------------------
+    Games Overview:
+      - Total Games: 1361
+      - Average Game Length: 2:17 minutes
+      - Longest Game: 5:51 minutes vs Popo on Dream Land N64
+      - Shortest Game: 0:07 seconds vs Marth on Fountain Of Dreams
+
+    Performance Highlights:
+      - Total 4-Stocks: 141
+      - Wins: 1313
+      - Losses: 48
+      - Win Rate: 96.47%
+      
+    Additional Metrics:
+      - Average Stocks Taken per Game: 3.89
+      - Average Stocks Lost per Game: 1.56
+      - Total Damage Given: 571769.93
+      - Total Damage Taken: 290364.20
+      - Longest Win Streak: 102 games
+      - Average Target L-Cancel Rate: 0.91%
+      - Average Opponent L-Cancel Rate: 0.85% 
+    -------------------------
+```
+
 ### Character Distribution
 Shows the frequency of each character used across all games:
 ![Character Distribution](output/Moky100WinsExample/char_freq_all.png)
