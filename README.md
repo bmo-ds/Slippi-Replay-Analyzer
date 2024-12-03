@@ -75,3 +75,9 @@ Breaks down losses by character and day:
 Install the required libraries:
 ```bash
 pip install matplotlib seaborn pillow pandas py-slippi==1.6.2
+```
+
+## Acknowledgments
+
+This project uses character and rank icons from:
+- [Grantismo's CoSlippiLeaderboard](https://github.com/Grantismo/CoSlippiLeaderboard) 
