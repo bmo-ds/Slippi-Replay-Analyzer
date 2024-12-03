@@ -59,7 +59,7 @@ The following network graph showcases the relationship between player damage rat
 Shows the frequency of each character used across all games:
 ![Character Distribution](output/Moky100WinsExample/char_freq_all.png)
 
-### Losses by Stage
+### Stage Frequency
 Stage frequency across all games:
 ![Losses By Stage with Most Common Character](output/Moky100WinsExample/stage_freq_all.png)
 
