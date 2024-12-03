@@ -38,6 +38,10 @@ Shows the frequency of each character used across all games:
 Illustrates the most common stages where losses occurred:
 ![Losses By Stage with Most Common Character](output/Moky100WinsExample/stage_freq_all.png)
 
+### Ranked Frequency
+Shows the frequency of ranks at each sub-rank:
+![Stacked Ranked](output/Moky100WinsExample/stacked_rank_chart.png)
+
 ---
 
 ## Challenge Stats
@@ -57,6 +61,11 @@ A simple plot of total attempts:
 ### Losses By Character & Day
 Breaks down losses by character and day:
 ![Losses By Character & Day](output/Moky100WinsExample/char_loss.png)
+
+### Character and Rank Heatmap
+Illustrates the frequency of each character at each rank:
+![Losses By Character & Day](output/Moky100WinsExample/rank_distribution_heatmap.png)
+
 
 ---
 
