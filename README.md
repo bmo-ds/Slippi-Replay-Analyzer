@@ -35,7 +35,7 @@ Shows the frequency of each character used across all games:
 ![Character Distribution](output/Moky100WinsExample/char_freq_all.png)
 
 ### Losses by Stage
-Illustrates the most common stages where losses occurred:
+Stage frequency across all games:
 ![Losses By Stage with Most Common Character](output/Moky100WinsExample/stage_freq_all.png)
 
 ### Ranked Frequency
