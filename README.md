@@ -24,7 +24,7 @@ A Python tool for analyzing Super Smash Bros. Melee game data. This tool generat
 The following network graph showcases the relationship between player damage ratio (damage given/taken) and ranks across Moky's games:
 
 ![Damage Ratio by Rank](output/Moky100WinsExample/graph_Moky100Wins_DamageRatio_sml.png)
-*Graph created using Gephi.*
+*Graph created using Gephi.* *Larger version available in 'output/Moky100WinsExample'*
 
 ---
 
@@ -39,8 +39,8 @@ Illustrates the most common stages where losses occurred:
 ![Losses By Stage with Most Common Character](output/Moky100WinsExample/stage_freq_all.png)
 
 ### Ranked Frequency
-Shows the frequency of ranks at each sub-rank:
-![Stacked Ranked](output/Moky100WinsExample/stacked_rank_chart.png)
+Displays the frequency of ranks at each sub-rank:
+![Stacked Ranked Chart](output/Moky100WinsExample/stacked_rank_chart.png)
 
 ---
 
@@ -63,7 +63,7 @@ Breaks down losses by character and day:
 ![Losses By Character & Day](output/Moky100WinsExample/char_loss.png)
 
 ### Character and Rank Heatmap
-Illustrates the frequency of each character at each rank:
+Visualizes the rank distribution across all characters, highlighting patterns in character performance by rank:
 ![Losses By Character & Day](output/Moky100WinsExample/rank_distribution_heatmap.png)
 
 
@@ -85,6 +85,12 @@ Install the required libraries:
 ```bash
 pip install matplotlib seaborn pillow pandas py-slippi==1.6.2
 ```
+
+## Usage
+To analyze Slippi replays:
+1. Place your `.slp` files in the `input/` folder.
+2. Run the analysis script: `python slippi_analyzer.py`.
+3. Output graphs and statistics will be saved in the `output/` folder.
 
 ## Acknowledgments
 
