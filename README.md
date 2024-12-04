@@ -33,13 +33,15 @@ The following network graph showcases the relationship between player damage rat
 ``` 
     -------------------------
     Games Overview:
-      - Total Games: 1361
+      - Total Games: 1359
       - Average Game Length: 2:17 minutes
       - Longest Game: 5:51 minutes vs Ice Climbers on Dream Land N64
       - Shortest Game: 0:07 seconds vs Marth on Fountain Of Dreams
 
     Performance Highlights:
       - Total 4-Stocks: 141
+      - Wins: 1313
+      - Losses: 46
       - Win Rate: 96.47%
       
     Additional Metrics:
