@@ -40,8 +40,6 @@ The following network graph showcases the relationship between player damage rat
 
     Performance Highlights:
       - Total 4-Stocks: 141
-      - Wins: 1313
-      - Losses: 48
       - Win Rate: 96.47%
       
     Additional Metrics:
